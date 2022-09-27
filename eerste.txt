@@ -1,3 +1,4 @@
 Dit is mijn eerste regel
-Dit is mijn tweede regel
+
+Ik hou van programmeren
 
